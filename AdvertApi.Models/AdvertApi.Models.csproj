@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Kaung Htet</Authors>
+    <Company>None</Company>
+    <Product>WebAdvert MicroServices</Product>
+    <PackageProjectUrl>https://github.com/Dawn-Nyo/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Dawn-Nyo/WebAdvert.AdvertApi</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
